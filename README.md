@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://cwmkt.com.br/wp-content/uploads/2024/04/logo_github.png" width="240" />
-<p align="center">Seja bem-vindo ao Guia de Instalação Chatwoot+Evolution+Typebot 🚀</p>
+<p align="center">Seja bem-vindo ao Guia de Instalação Typebot 🚀</p>
 </p>
   
 <p align="center"> 
